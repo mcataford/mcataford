@@ -1,5 +1,14 @@
-### Hi there 👋
+### Ahoy :wave:
 
+I'm Marc and I'm a software engineering working in Toronto, Canada.
+
+I'm currently leading a team doing some pretty cool stuff at [Tophat](https://tophat.com/company/work-with-us/) using React and Django.
+
+I also dabble in [open source](https://github.com/tophat/), baking and fermented foods.
+
+Current interests: Typescript, service-oriented architecture, finding out how to make my own kimchi.
+
+Want to chat? Send me an [email](mailto:mcat@riseup.net) or poke me on [LinkedIn](https://www.linkedin.com/in/marccataford/).
 <!--
 **mcataford/mcataford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
