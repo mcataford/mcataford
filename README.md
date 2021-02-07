@@ -1,6 +1,6 @@
 ### Ahoy :wave:
 
-I'm Marc and I'm a software engineering working in Toronto, Canada.
+I'm Marc and I'm a software engineer working in Toronto, Canada.
 
 I'm currently leading a team doing some pretty cool stuff at [Tophat](https://tophat.com/company/work-with-us/) using React and Django.
 
