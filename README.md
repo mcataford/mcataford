@@ -17,6 +17,5 @@ happening and upping __developer and customer experience__.
 
 ## Words
 
-I don't quite have a blog, but I do have gists.
-
-- [18-06-2023: Hello](https://gist.github.com/mcataford/8d7fb99fe19ee7cf16073592322bcaed)
+[It's not much, but it's honest
+work.](https://words-by-marc.notion.site/words-by-marc/Words-8abff1e0afd849f9a508cc05fd535bfb)
