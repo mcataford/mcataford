@@ -6,7 +6,7 @@
 
 🎯 I focus on fostering __engineering excellence__ however I can, making sure that __tough discussions about quality__ are happening and upping __developer and customer experience__.
 
-🧠 I dabble in __[open](https://github.com/tophat/) [source](https://github.com/mcataford?tab=repositories)__, __baking__ and __fermented foods__.
+🧠 I fiddle with __code__ (not here anymore, but over [there](https://forge.karnov.club/marc)), __bake__ and __ferment foods__.
 
 ❓ My current interests lie in hands-on technical leadership, managing technical debt, and growing houseplants and engineering talent.
 
