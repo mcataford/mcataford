@@ -2,7 +2,7 @@
 
 🧔 My name is Marc and I'm a computer engineer working remotely from __Ottawa, Canada__.
 
-🛠️ During the day, I'm an Engineering Manager at [Fellow](https://fellow.app), where I help engineers grow as professionals and build awesome new features while keeping the bar high for code and product quality. If you are interested in running _excellent_ meetings and getting the most out of the conversations you have, you should definitely check it out!
+🛠️ During the day, I'm an Engineering Manager at [Clio](https://clio.com), where my team and I handle anything AWS infrastructure, Kubernetes and a slew of platform-y bits and bobs in-between.
 
 🎯 I'm deeply interested in fostering __engineering excellence__ however I can, making sure that __tough discussions about quality__ are happening and upping __developer and customer experience__.
 
